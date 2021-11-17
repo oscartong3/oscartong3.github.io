@@ -1,0 +1,33 @@
+{
+    "name": "HK Horse Racing Prediction",
+    "short_name": "HK Horse Racing Prediction",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "This app provides the horse racing prediction for HKJC racing.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/favicon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/ms-icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+}
