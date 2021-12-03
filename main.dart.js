@@ -770,7 +770,7 @@ n=J
 m=J
 l=C.as
 s=4
-return P.ad($.xH().GG("/data/race_details.json"),$async$xD)
+return P.ad($.xH().GG("data/race_details.json"),$async$xD)
 case 4:s=3
 return P.ad(m.ax(l.cZ(0,b),"data"),$async$xD)
 case 3:p=n.ar(b)
@@ -53974,7 +53974,7 @@ n=J
 m=J
 l=C.as
 s=4
-return P.ad($.xH().GG("/data/race_prediction.json"),$async$$0)
+return P.ad($.xH().GG("data/race_prediction.json"),$async$$0)
 case 4:s=3
 return P.ad(m.ax(l.cZ(0,b),"data"),$async$$0)
 case 3:p=n.ar(b)
