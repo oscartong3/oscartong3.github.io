@@ -53884,7 +53884,7 @@ r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 E.z9.prototype={
 R:function(a,b){var s=null,r=K.kh(46),q=H.a([new O.hw(0,P.aj(41,0,0,0),new P.t(0,-2),30)],t.xq)
-return M.dx(s,T.e2(H.a([new U.mX(M.aay(s,s,new L.pO("assets/images/temp_logo.jpg",s,s)),80,C.kC,s),T.D0(s,s,5),L.dp("HKJC Horse Racing Prediction".toUpperCase(),A.dq(s,s,s,s,s,s,s,s,s,s,s,22,s,C.aQ,s,s,!0,s,s,s,s,s,s,s,s),s,s),new R.Dg(s),new L.rB("Past Record",new E.MN(),s),new L.rB("About",new E.MO(),s),new R.zg("Login",new E.MP(),s)],t.p),C.aW,s),s,new S.de(C.j,s,s,r,q,s,C.a0),s,new V.aM(20,20,20,20),new V.aM(20,20,20,20),s)}}
+return M.dx(s,T.e2(H.a([new U.mX(M.aay(s,s,new L.pO("assets/images/templogo.jpg",s,s)),80,C.kC,s),T.D0(s,s,5),L.dp("HKJC Horse Racing Prediction".toUpperCase(),A.dq(s,s,s,s,s,s,s,s,s,s,s,22,s,C.aQ,s,s,!0,s,s,s,s,s,s,s,s),s,s),new R.Dg(s),new L.rB("Past Record",new E.MN(),s),new L.rB("About",new E.MO(),s),new R.zg("Login",new E.MP(),s)],t.p),C.aW,s),s,new S.de(C.j,s,s,r,q,s,C.a0),s,new V.aM(20,20,20,20),new V.aM(20,20,20,20),s)}}
 E.MN.prototype={
 $0:function(){},
 $S:0}
