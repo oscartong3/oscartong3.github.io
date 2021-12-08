@@ -54989,7 +54989,7 @@ $0(){},
 $S:0}
 A.BL.prototype={
 M(a,b){var s=null,r=A.kv(46),q=A.a([new A.fS(0,B.cN,A.ai(41,0,0,0),new A.r(0,-2),30)],t.xq),p=t.p
-return A.cG(s,A.kE(A.a([A.cZ(A.a([A.ab3("assets/images/templogo.jpg",B.fx,70),A.o1(s,s,5),A.Ex(A.fH(s,A.cN(s,s,s,s,s,s,s,s,s,s,s,22,s,B.a1,s,s,!0,s,s,s,s,s,s,s,s),"HKJC Horse Racing Prediction".toUpperCase()),s,B.bO)],p),B.aY,B.E,s),A.cZ(A.a([new A.lg("Past Record",new A.SP(),s),new A.lg("About",new A.SQ(),s),new A.qE("Login",new A.SR(),s)],p),B.mH,B.E,s)],p),B.b5,B.a4),s,new A.cP(B.j,s,s,r,q,s,B.Z),s,new A.aN(10,10,10,10),new A.aN(10,10,10,10),s)}}
+return A.cG(s,A.kE(A.a([A.cZ(A.a([A.ab3("assets/images/templogo.jpg",B.fx,50),A.o1(s,s,5),A.Ex(A.fH(s,A.cN(s,s,s,s,s,s,s,s,s,s,s,18,s,B.a1,s,s,!0,s,s,s,s,s,s,s,s),"HKJC Horse Racing Prediction".toUpperCase()),s,B.bO)],p),B.aY,B.E,s),A.cZ(A.a([new A.lg("Past Record",new A.SP(),s),new A.lg("About",new A.SQ(),s),new A.qE("Login",new A.SR(),s)],p),B.mH,B.E,s)],p),B.b5,B.a4),s,new A.cP(B.j,s,s,r,q,s,B.Z),s,new A.aN(10,10,10,10),new A.aN(10,10,10,10),s)}}
 A.SP.prototype={
 $0(){},
 $S:0}
@@ -55023,9 +55023,9 @@ A.t5.prototype={
 M(a,b){var s,r,q,p,o,n=null,m=4281805104,l=b.a4(t.w).f,k=t.p
 l=A.cZ(A.a([A.cG(n,A.act(B.fA,A.cG(B.Y,A.ab4("assets/images/temp_banner.jpg"),n,n,n,n,n,l.a.a-20),new A.SO()),n,n,n,n,n,n)],k),B.aY,B.E,n)
 s=A.cZ(A.a([A.di("\n",n,n,n)],k),B.a4,B.E,n)
-r=A.Ex(A.fH(n,A.b5(b).a5.a.Em(B.h1,30,B.a1),"Most Accurate Horse Racing Prediction"),n,B.bO)
-q=A.Ex(A.fH(n,A.cN(n,n,A.ai(204,36,20,36),n,n,n,n,n,n,n,n,21,n,n,n,n,!0,n,n,n,n,n,n,n,n),"We dedicate to use latest technology to predict HKJC horse races."),n,B.bO)
-p=A.cN(n,n,n,n,n,n,n,n,n,n,n,21,n,n,n,n,!0,n,n,n,n,n,n,n,n)
+r=A.Ex(A.fH(n,A.b5(b).a5.a.Em(B.h1,18,B.a1),"Most Accurate Horse Racing Prediction"),n,B.bO)
+q=A.Ex(A.fH(n,A.cN(n,n,A.ai(204,36,20,36),n,n,n,n,n,n,n,n,15,n,n,n,n,!0,n,n,n,n,n,n,n,n),"We dedicate to use latest technology to predict HKJC horse races."),n,B.bO)
+p=A.cN(n,n,n,n,n,n,n,n,n,n,n,15,n,n,n,n,!0,n,n,n,n,n,n,n,n)
 p=A.Ex(A.fH(A.a([A.fH(n,A.cN(n,n,n,n,B.fc,n,n,n,n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),"6 hours"),A.fH(n,n," before the race here!")],t.sU),p,"You can find the race result prediction "),n,B.bO)
 o=A.kv(34)
 return new A.em(B.xx,A.kE(A.a([l,s,r,q,p,A.aaU(A.cG(n,A.cZ(A.a([A.cG(n,A.cG(n,n,n,new A.cP(new A.z(m),n,n,n,n,n,B.cO),n,n,n,n),n,new A.cP(B.cW,n,n,n,n,n,B.cO),38,n,new A.aN(10,10,10,10),38),A.o1(n,n,15),A.di("Get Started".toUpperCase(),A.cN(n,n,B.j,n,n,n,n,n,n,n,n,n,n,B.a1,n,n,!0,n,n,n,n,n,n,n,n),n,n)],k),B.a4,B.E,n),n,new A.cP(new A.z(m),n,n,o,n,n,B.Z),n,new A.aN(0,20,0,20),new A.aN(15,15,15,15),n))],k),B.b5,B.aY),n)}}
